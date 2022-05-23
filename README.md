@@ -8,6 +8,8 @@
 ## People Who Have Contributed To This Project
 - Abdulnaser Sheikh 
 - - Computer Science
+- Ayan
+- - Health Science
 
 ## What Task Must Be Done 
 - [ ] Develop Audio For Most Common Somali Words
