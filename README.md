@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulnsheikh/Speech-To-Text-For-The-Somali-Language/main/SomaliSTT.jpg">
+</p>
+
+
+<br />
+
 # Speech To Text For The Somali Language 
 
 ## Table of Contents
@@ -14,7 +21,7 @@
 ## What Task Must Be Done 
 - [ ] Develop Audio For Most Common Somali Words
 - [ ] Building a phonetic dictionary
-- [ ] Collect a set of transcribed recordings for your language - interviews, audiobooks
+- [x] Collect a set of transcribed recordings for your language - interviews, audiobooks
 - [ ] Building a language model
 
  
