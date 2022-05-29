@@ -25,19 +25,19 @@ aabyood aab yood
 aad aad 
 aadaab aa daab 
 aadaamid aa daa mid 
-aadaan aa d aa n 
-aadami aa d a m i 
-aadaminnimo aa d a m i n n i m o 
-aadane aa d a n e 
-aaddamid aa d d a m i d 
-aaddan aa d d a n 
-aaddanaan aa d d a n aa n 
-aaddanaansho aa d d a n aa n sh o 
-aaddi aa d d i 
-aaddin aa d d i n 
-aadeer aa d ee r 
-aadi aa d i 
-aadid aa d i d 
+aadaan aa daan 
+aadami aa da mi 
+aadaminnimo aa da min ni mo 
+aadane aa da ne 
+aaddamid aa dda mid 
+aaddan aa dda n 
+aaddanaan aa dda naan 
+aaddanaansho aa dda n aa n sh o 
+aaddi aa ddi 
+aaddin aa ddi n 
+aadeer aa dee r 
+aadi aa di 
+aadid aa did 
 aadimo aa d i m o 
 aadin aa d i n 
 aadiraac aa d i r aa c 
@@ -80,7 +80,7 @@ aalkol aa l k o l
 aalkolo aa l k o l o 
 aallid aa l l i d 
 aalo aa l o 
-aamanuu aa m a n uu 
+aamanuu aa man uu 
 aameel aa m ee l 
 aamiin aa m ii n 
 aamiinsad aa m ii n s a d 
